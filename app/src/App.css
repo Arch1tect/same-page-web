@@ -1,0 +1,14 @@
+.sp-chatbox-iframe {
+  position: fixed;
+  left: 20px;
+  bottom: 0;
+  z-index: 2147483647;
+  height: calc(100% - 120px);
+  width: 350px;
+  min-height: 0px;
+  min-width: 0px;
+  border: none;
+  border-left: 1px solid gray;
+  box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.31);
+  margin-bottom: 0px;
+}
