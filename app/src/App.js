@@ -55,6 +55,7 @@ function App() {
         // <Icon width={50} height={50} type="message" />
       )}
       <iframe
+        title="一叶聊天盒"
         // ref={this.iframeRef}
         style={{ display: display }}
         className="sp-chatbox-iframe"
